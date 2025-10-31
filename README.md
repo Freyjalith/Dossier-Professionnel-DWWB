@@ -1,3 +1,4 @@
+```markdown
 # Dossiers de soutenance – Titre Professionnel DWWM
 
 Ce dépôt regroupe mes documents de soutenance pour le Titre Professionnel Développeur Web et Web Mobile.
@@ -7,9 +8,11 @@ Il ne contient pas le code source du projet (voir lien ci-dessous). Il centralis
 
 - Dossier professionnel PDF
 - Dossier de projet PDF
+- Présentation PowerPoint (fichier .pptx) : Présentation.pptx (placé à la racine du dépôt)
 
 ├── Dossier_Professionnel.pdf
 ├── Dossier_Projet.pdf
+├── Présentation.pptx
 
 ## Comment lire les documents
 - Commencer par le « Dossier professionnel » pour la mise en avant des réalisations et de la pratique pro.
@@ -29,10 +32,11 @@ Le code applicatif associé à ces documents se trouve dans un dépôt séparé:
 - Finalité: préparation à la soutenance (présentation orale + évaluation des livrables)
 - Compétences mises en avant: analyse de besoin, conception, développement, tests, déploiement, sécurité, documentation
 
-  ## Contact
+## Contact
 
 - Elsa Cruz-Mermy
 
-  ---
+---
 
 Si ce dépôt vous est utile, n’hésitez pas à laisser une étoile ⭐.
+```
